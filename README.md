@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahmed Yaser CS student 
+- 👋 Hi, I’m Ahmed Yaser Computer Science student 
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning .Net 
+- 🌱 I’m currently learning ASP.Net Core 
 
 <!---
 ahmed812003/ahmed812003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
