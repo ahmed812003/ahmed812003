@@ -2,10 +2,6 @@
 
 ###
 
-
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed812003.ahmed812003&"  />
 </div>
@@ -18,11 +14,11 @@
 
 <p align="left">I'm Ahmed Yaser Software Engineer.<br><br>- 🔭 I’m working as a Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core.<br>- ⚡ In my free time I Practice in codeforces</p>
 
-<h3 align="left">Connect with Me :</h3>h3>
-
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Connect with Me :</h3>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%D8%A3%D8%AD%D9%85%D8%AF-%D9%8A%D8%A7%D8%B3%D8%B1-786966206/" target="_blank">
@@ -32,6 +28,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">🛠 Language and tools </h3>
 
 ###
 
