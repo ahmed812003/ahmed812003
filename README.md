@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">-🏢 I'm a Software Engineer <br>- 🔭 I’m working as a Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core.<br>- ⚡ In my free time I Practice in codeforces</p>
+<p align="left">- 🏢 I'm a Software Engineer <br>- 🔭 I’m working as a Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core.<br>- ⚡ In my free time I Practice in codeforces</p>
 
 ###
 
