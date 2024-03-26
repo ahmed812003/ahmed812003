@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">{وَ قُلْ رَبِّ زِدْنِي عِلْماً} </p>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed812003.ahmed812003&left_text=PROFILE%20VIEWS" height = "35"   />
 </div>
