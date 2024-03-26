@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Yaser Software Engineer.<br><br>- 🔭 I’m working as Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core<br>- ⚡ In my free time I Solve Problems in codeforces</p>
+<p align="left">I'm Ahmed Yaser Software Engineer.<br><br>- 🔭 I’m working as a Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core.<br>- ⚡ In my free time I Practice in codeforces</p>
 
 ###
 
