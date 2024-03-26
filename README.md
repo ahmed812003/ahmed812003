@@ -22,10 +22,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%D8%A3%D8%AD%D9%85%D8%AF-%D9%8A%D8%A7%D8%B3%D8%B1-786966206/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ahmed Yaser Yousef&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ahmed Yaser Yousef&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/Ahmed812003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ahmed Yaser Yousef&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ahmed Yaser Yousef&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo"  />
   </a>
 </div>
 
