@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed812003.ahmed812003&left_text=PROFILE%20VIEWS" height = "35"   />
-</div>
-
-###
-
 <p align="left">- 🏢 I'm a Software Engineer <br>- 🔭 I’m working as a Backend Engineer (ASP.NET Core).<br>- 📚 I'm currently learning Advanced topics in ASP.NET Core.<br>- ⚡ In my free time I Practice in codeforces</p>
 
 ###
